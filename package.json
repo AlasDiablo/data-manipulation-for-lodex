@@ -1,0 +1,18 @@
+{
+  "name": "data-manipulation-for-lodex",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "franceMarkdown": "node franceMarkdown.js",
+    "franceCsv": "node franceCsv.js",
+    "franceJson": "node franceJson.js",
+    "worldMarkdown": "node worldMarkdown.js",
+    "worldCsv": "node worldCsv.js",
+    "worldJson": "node worldJson.js",
+    "startAll": "node runAllConverstion.js",
+    "countriesConvertion": "node IsoToGeoPoint.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "CeCILL"
+}
